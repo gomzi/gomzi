@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Evgeni Gomziakov
+### Hi there 👋
 
 I'm a self-taught Full Stack Developer with industry experience, building websites and web applications.
 I specialize in PHP and JavaScript and have experience working with Laravel, React and many other technologies.
