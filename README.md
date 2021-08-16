@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Evgeni Gomziakov
 
-I am a Self-taught A full-stack developer with industry experience, building websites and web applications.
-I specialize in PHP and JavaScript and have experience working with React and Angular. (both typescript and js).
+I'm a self-taught Full Stack Developer with industry experience, building websites and web applications.
+I specialize in PHP and JavaScript and have experience working with Laravel, React and many other technologies.
 
 ## Let's Connect.
 
